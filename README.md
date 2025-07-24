@@ -1,6 +1,6 @@
 # 🧑‍💼 Employee-Address Spring Boot REST API
 
-This project demonstrates a **One-to-Many** relationship between `Employee` and `Address` using Spring Boot, Spring Data JPA, and MySQL and allow us to perform CRUD operation.
+This project demonstrates a **One-to-Many** relationship between `Employee` and `Address` using Spring Boot, Spring Data JPA, and MySQL and allows us to perform CRUD operation.
 
 ## 📦 Tech Stack
 
